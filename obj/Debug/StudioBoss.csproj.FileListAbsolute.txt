@@ -1,0 +1,21 @@
+C:\Users\Ratko\Output\Debug\AnyCPU\Zebra_CoreScanner_Driver_64bit.exe
+C:\Users\Ratko\Output\Debug\AnyCPU\Eula.rtf
+C:\Users\Ratko\Output\Debug\AnyCPU\StudioBossCheckInTracker.exe.config
+C:\Users\Ratko\Output\Debug\AnyCPU\StudioBoss.exe.config
+C:\Users\Ratko\Output\Debug\AnyCPU\StudioBoss.exe.manifest
+C:\Users\Ratko\Output\Debug\AnyCPU\StudioBoss.application
+C:\Users\Ratko\Output\Debug\AnyCPU\StudioBoss.exe
+C:\Users\Ratko\Output\Debug\AnyCPU\StudioBoss.pdb
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\Interop.CoreScanner.dll
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\StudioBoss.csproj.ResolveComReference.cache
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\StudioBoss.DadfScriptEditor.resources
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\StudioBoss.frmScannerApp.resources
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\StudioBoss.Properties.Resources.resources
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\StudioBoss.StudioBoss.resources
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\StudioBoss.TopologyPopupForm.resources
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\StudioBoss.csproj.GenerateResource.Cache
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\StudioBoss.TrustInfo.xml
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\StudioBoss.exe.manifest
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\StudioBoss.application
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\StudioBoss.exe
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\StudioBoss.pdb

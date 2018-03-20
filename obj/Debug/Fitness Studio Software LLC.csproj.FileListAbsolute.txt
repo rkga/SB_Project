@@ -1,0 +1,42 @@
+C:\Output\Debug\AnyCPU\Zebra_CoreScanner_Driver_64bit.exe
+C:\Output\Debug\AnyCPU\Eula.rtf
+C:\Output\Debug\AnyCPU\StudioBossCheckInTracker.exe.config
+C:\Output\Debug\AnyCPU\Fitness Studio Software LLC.exe.config
+C:\Output\Debug\AnyCPU\Fitness Studio Software LLC.exe.manifest
+C:\Output\Debug\AnyCPU\Fitness Studio Software LLC.application
+C:\Output\Debug\AnyCPU\Fitness Studio Software LLC.exe
+C:\Output\Debug\AnyCPU\Fitness Studio Software LLC.pdb
+C:\Users\Ratko\Desktop\SB_Project\obj\Debug\Interop.CoreScanner.dll
+C:\Users\Ratko\Desktop\SB_Project\obj\Debug\Fitness Studio Software LLC.csproj.ResolveComReference.cache
+C:\Users\Ratko\Desktop\SB_Project\obj\Debug\StudioBoss.DadfScriptEditor.resources
+C:\Users\Ratko\Desktop\SB_Project\obj\Debug\StudioBoss.frmScannerApp.resources
+C:\Users\Ratko\Desktop\SB_Project\obj\Debug\StudioBoss.Properties.Resources.resources
+C:\Users\Ratko\Desktop\SB_Project\obj\Debug\StudioBoss.StudioBoss.resources
+C:\Users\Ratko\Desktop\SB_Project\obj\Debug\StudioBoss.TopologyPopupForm.resources
+C:\Users\Ratko\Desktop\SB_Project\obj\Debug\Fitness Studio Software LLC.csproj.GenerateResource.Cache
+C:\Users\Ratko\Desktop\SB_Project\obj\Debug\Fitness Studio Software LLC.TrustInfo.xml
+C:\Users\Ratko\Desktop\SB_Project\obj\Debug\Fitness Studio Software LLC.exe.manifest
+C:\Users\Ratko\Desktop\SB_Project\obj\Debug\Fitness Studio Software LLC.application
+C:\Users\Ratko\Desktop\SB_Project\obj\Debug\Fitness Studio Software LLC.exe
+C:\Users\Ratko\Desktop\SB_Project\obj\Debug\Fitness Studio Software LLC.pdb
+C:\Users\Ratko\Output\Debug\AnyCPU\Zebra_CoreScanner_Driver_64bit.exe
+C:\Users\Ratko\Output\Debug\AnyCPU\Eula.rtf
+C:\Users\Ratko\Output\Debug\AnyCPU\StudioBossCheckInTracker.exe.config
+C:\Users\Ratko\Output\Debug\AnyCPU\Fitness Studio Software LLC.exe.config
+C:\Users\Ratko\Output\Debug\AnyCPU\Fitness Studio Software LLC.exe.manifest
+C:\Users\Ratko\Output\Debug\AnyCPU\Fitness Studio Software LLC.application
+C:\Users\Ratko\Output\Debug\AnyCPU\Fitness Studio Software LLC.exe
+C:\Users\Ratko\Output\Debug\AnyCPU\Fitness Studio Software LLC.pdb
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\Interop.CoreScanner.dll
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\Fitness Studio Software LLC.csproj.ResolveComReference.cache
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\StudioBoss.DadfScriptEditor.resources
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\StudioBoss.frmScannerApp.resources
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\StudioBoss.Properties.Resources.resources
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\StudioBoss.StudioBoss.resources
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\StudioBoss.TopologyPopupForm.resources
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\Fitness Studio Software LLC.csproj.GenerateResource.Cache
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\Fitness Studio Software LLC.TrustInfo.xml
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\Fitness Studio Software LLC.exe.manifest
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\Fitness Studio Software LLC.application
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\Fitness Studio Software LLC.exe
+C:\Users\Ratko\Desktop\bendik\Actual Project\SB_Project\obj\Debug\Fitness Studio Software LLC.pdb

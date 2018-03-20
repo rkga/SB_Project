@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudioBoss", "StudioBoss.csproj", "{4F71CF66-9F48-4023-B42E-9889CEC32D64}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "StudioBossSetup", "StudioBossSetup\StudioBossSetup.isproj", "{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64} = {4F71CF66-9F48-4023-B42E-9889CEC32D64}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		CD_ROM|x64 = CD_ROM|x64
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		DVD-5|Any CPU = DVD-5|Any CPU
+		DVD-5|x64 = DVD-5|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		SingleImage|Any CPU = SingleImage|Any CPU
+		SingleImage|x64 = SingleImage|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.CD_ROM|x64.ActiveCfg = Release|x64
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.CD_ROM|x64.Build.0 = Release|x64
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.Debug|x64.ActiveCfg = Debug|x64
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.Debug|x64.Build.0 = Debug|x64
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.DVD-5|x64.ActiveCfg = Debug|x64
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.DVD-5|x64.Build.0 = Debug|x64
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.Release|x64.ActiveCfg = Release|x64
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.Release|x64.Build.0 = Release|x64
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.SingleImage|x64.ActiveCfg = Release|x64
+		{4F71CF66-9F48-4023-B42E-9889CEC32D64}.SingleImage|x64.Build.0 = Release|x64
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.CD_ROM|x64.ActiveCfg = CD_ROM
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.CD_ROM|x64.Build.0 = CD_ROM
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.Debug|Any CPU.ActiveCfg = DVD-5
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.Debug|Any CPU.Build.0 = DVD-5
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.Debug|x64.ActiveCfg = DVD-5
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.Debug|x64.Build.0 = DVD-5
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.DVD-5|Any CPU.Build.0 = DVD-5
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.DVD-5|x64.ActiveCfg = DVD-5
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.DVD-5|x64.Build.0 = DVD-5
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.Release|Any CPU.ActiveCfg = SingleImage
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.Release|Any CPU.Build.0 = SingleImage
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.Release|x64.ActiveCfg = SingleImage
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.Release|x64.Build.0 = SingleImage
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.SingleImage|Any CPU.Build.0 = SingleImage
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.SingleImage|x64.ActiveCfg = SingleImage
+		{1FF3A40A-9D2E-4A0C-99F8-11C8A856D4E8}.SingleImage|x64.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

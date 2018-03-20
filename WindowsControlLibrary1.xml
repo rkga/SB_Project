@@ -1,0 +1,161 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsControlLibrary1
+</name>
+</assembly>
+<members>
+<member name="T:WindowsControlLibrary1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsControlLibrary1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsControlLibrary1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:WindowsControlLibrary1.Core.Scrollbar">
+ <summary>CoreScrollbar is a custom scrollbar class that is fully drawn.</summary>
+</member>
+<member name="P:WindowsControlLibrary1.Core.Scrollbar.LargeChange">
+ <summary>The change in the position of the thumb when the user clicks in the scroll bar area or uses the pgup/pgdn.</summary>
+</member>
+<member name="P:WindowsControlLibrary1.Core.Scrollbar.Maximum">
+ <summary>The maximum position of the thumb.</summary>
+</member>
+<member name="P:WindowsControlLibrary1.Core.Scrollbar.Minimum">
+ <summary>The minimum position of the thumb.</summary>
+</member>
+<member name="P:WindowsControlLibrary1.Core.Scrollbar.SmallChange">
+ <summary>The change in the position of the thumb when the user clicks one of the arrows or uses an arrow key.</summary>
+</member>
+<member name="P:WindowsControlLibrary1.Core.Scrollbar.Value">
+ <summary>The position of the thumb.</summary>
+</member>
+<member name="P:WindowsControlLibrary1.Core.Scrollbar.Orientation">
+ <summary>The orientation of the scrollbar vertical/horizontal.</summary>
+</member>
+<member name="T:WindowsControlLibrary1.Core.Scrollbar.OrientationMode">
+ <summary>An enumeration of scrollbar orientation horizontal/vertical.</summary>
+</member>
+<member name="T:WindowsControlLibrary1.Core.Scrollbar.ControlEvents">
+ <summary>An enumeration of usercontrol events.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.Draw">
+ <summary>Method for drawing the scrollbar control.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.ReDraw">
+ <summary>Method for redrawing the scrollbar control.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.Get_Thumb_Height">
+ <summary>Method for calculating the thumb height of the scrollbar control.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.Draw_Arrow_Down(System.Int32,System.Int32,System.Int32,System.Int32,WindowsControlLibrary1.Core.Scrollbar.ControlEvents)">
+ <summary>Method for drawing the arrow down button.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.Draw_Arrow_Up(System.Int32,System.Int32,System.Int32,System.Int32,WindowsControlLibrary1.Core.Scrollbar.ControlEvents)">
+ <summary>Method for drawing the arrow up button.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.Draw_Thumb(System.Int32,System.Int32,System.Int32,System.Int32,WindowsControlLibrary1.Core.Scrollbar.ControlEvents)">
+ <summary>Method for drawing the the scrollbar thumb.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.Draw_Shaft_Above(System.Int32,System.Int32,System.Int32,System.Int32,WindowsControlLibrary1.Core.Scrollbar.ControlEvents)">
+ <summary>Method for drawing the shaft above the scrollbar thumb.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.Draw_Shaft_Below(System.Int32,System.Int32,System.Int32,System.Int32,WindowsControlLibrary1.Core.Scrollbar.ControlEvents)">
+ <summary>Method for drawing the shaft below the scrollbar thumb.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.CursorPOS">
+ <summary>Method for retrieving the mouse position relative to the control.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.Move_ShaftDown">
+ <summary>Method for moving the thumb downwards based on scrollbar shaft being pressed.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.Move_ThumbDown">
+ <summary>Method for moving the thumb downwards based on arrow button down being clicked.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.Move_ShaftUp">
+ <summary>Method for moving the thumb upwards based on scrollbar shaft being pressed.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.Move_ThumbUp">
+ <summary>Method for moving the thumb upwards based on arrow button up being clicked.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.ThumbMover">
+ <summary>Method for moving the thumb based on sliding it.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.OnResize(System.EventArgs)">
+ <summary>Method for usercontrol resize.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.OnPaint(System.Windows.Forms.PaintEventArgs)">
+ <summary>Method for usercontrol paint.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.PageUp_Tick(System.Object,System.EventArgs)">
+ <summary>Method for timing thumb upwards movement.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.PageDown_Tick(System.Object,System.EventArgs)">
+ <summary>Method for timing thumb downwards movement.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.OnMouseDown(System.Windows.Forms.MouseEventArgs)">
+ <summary>Method for usercontrol mousedown event.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.OnMouseEnter(System.EventArgs)">
+ <summary>Method for usercontrol mouseenter event.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.OnMouseHover(System.EventArgs)">
+ <summary>Method for usercontrol mousehover event.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.OnMouseLeave(System.EventArgs)">
+ <summary>Method for usercontrol mouseleave event.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.OnMouseMove(System.Windows.Forms.MouseEventArgs)">
+ <summary>Method for usercontrol mousemove event.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.OnMouseUp(System.Windows.Forms.MouseEventArgs)">
+ <summary>Method for usercontrol mouseup event.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.OnKeyUp(System.Windows.Forms.KeyEventArgs)">
+ <summary>Method for usercontrol keyup event.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.ProcessDialogKey(System.Windows.Forms.Keys)">
+ <summary>Method for usercontrol processdialogkey event.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.Scrollbar.OnMouseWheel(System.Windows.Forms.MouseEventArgs)">
+ <summary>Method for usercontrol onmousewheel event.</summary>
+</member>
+<member name="T:WindowsControlLibrary1.Core.ControlInfo">
+ <summary>ControlInfo class is a storage container for fake controls made from gdi+.</summary>
+</member>
+<member name="P:WindowsControlLibrary1.Core.ControlInfo.X">
+ <summary>The left location of the fake control.</summary>
+</member>
+<member name="P:WindowsControlLibrary1.Core.ControlInfo.Y">
+ <summary>The top location of the fake control.</summary>
+</member>
+<member name="P:WindowsControlLibrary1.Core.ControlInfo.H">
+ <summary>The height of the fake control.</summary>
+</member>
+<member name="P:WindowsControlLibrary1.Core.ControlInfo.W">
+ <summary>The width of the fake control.</summary>
+</member>
+<member name="P:WindowsControlLibrary1.Core.ControlInfo.Name">
+ <summary>The name of the fake control.</summary>
+</member>
+<member name="P:WindowsControlLibrary1.Core.ControlInfo.X2">
+ <summary>The left + width of the fake control.</summary>
+</member>
+<member name="P:WindowsControlLibrary1.Core.ControlInfo.Y2">
+ <summary>The top + height of the fake control.</summary>
+</member>
+<member name="M:WindowsControlLibrary1.Core.ControlInfo.#ctor">
+ <summary>The constructor of the controlinfo class.</summary>
+</member>
+</members>
+</doc>
